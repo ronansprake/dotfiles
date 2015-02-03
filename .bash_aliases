@@ -9,7 +9,6 @@ alias ls='ls -l -a -h --color=auto'
 alias back='cd $OLDPWD'
 alias root='sudo su'
 alias grep='grep --color=auto'
-alias nano='nano -w'
 #apt aliases
 alias install='sudo apt-get install'
 alias remove='sudo apt-get remove'
