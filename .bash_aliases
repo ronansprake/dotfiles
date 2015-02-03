@@ -5,7 +5,7 @@ alias ....='cd ../../..'
 alias .....='cd ../../../..'
 alias cd..='cd ..'
 # Other aliases
-alias ls='ls -ha --color=auto'
+alias ls='ls -l -a -h --color=auto'
 alias back='cd $OLDPWD'
 alias root='sudo su'
 alias grep='grep --color=auto'
